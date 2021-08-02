@@ -1,0 +1,20 @@
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.exe
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.deps.json
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.runtimeconfig.json
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.runtimeconfig.dev.json
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.dll
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\bin\Debug\netcoreapp3.1\Local Produce Initial Verson Server.pdb
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.csprojAssemblyReference.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.AssemblyInfoInputs.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.AssemblyInfo.cs
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.csproj.CoreCompileInputs.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\staticwebassets\Local Produce Initial Verson Server.StaticWebAssets.Manifest.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\staticwebassets\Local Produce Initial Verson Server.StaticWebAssets.xml
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\scopedcss\bundle\Local Produce Initial Verson Server.styles.css
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.RazorTargetAssemblyInfo.cache
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.dll
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.pdb
+C:\Users\Student\git\ProduceApp\ProduceApp\Local Produce Initial Verson\Local Produce Initial Verson\obj\Debug\netcoreapp3.1\Local Produce Initial Verson Server.genruntimeconfig.cache

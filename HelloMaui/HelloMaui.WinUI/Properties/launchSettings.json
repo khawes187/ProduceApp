@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "HelloMaui.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
